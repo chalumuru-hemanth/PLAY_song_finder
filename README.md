@@ -1,7 +1,9 @@
 # PLAY_song_finder
 i've made this application using python and a module called selenium.
 
-this application starts with a dialog box 
+this application starts with a dialog box asking for the lyrics of the song you want to find or the name of the song you want to play.
+
+
 ## Automation using python
 Automating simple tasks like visiting 'YouTube', 'Amazon', 'Gmail', etc. using python
 
